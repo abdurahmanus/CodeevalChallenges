@@ -1,0 +1,10 @@
+{
+  "name": "FileSize",
+  "version": "0.0.0",
+  "description": "FileSize",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}
