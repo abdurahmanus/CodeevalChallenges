@@ -7,6 +7,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SplitTheNumber", "SplitTheN
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SumOfIntegersFromFile", "SumOfIntegersFromFile\SumOfIntegersFromFile.njsproj", "{F5FDFACA-F1CF-4C91-8FA5-5E1328E5D57E}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MultiplesOfANumber", "MultiplesOfANumber\MultiplesOfANumber.njsproj", "{A24FFACC-CE2F-4DB7-AA19-E4EE9368DC60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F5FDFACA-F1CF-4C91-8FA5-5E1328E5D57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5FDFACA-F1CF-4C91-8FA5-5E1328E5D57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5FDFACA-F1CF-4C91-8FA5-5E1328E5D57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24FFACC-CE2F-4DB7-AA19-E4EE9368DC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24FFACC-CE2F-4DB7-AA19-E4EE9368DC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24FFACC-CE2F-4DB7-AA19-E4EE9368DC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24FFACC-CE2F-4DB7-AA19-E4EE9368DC60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

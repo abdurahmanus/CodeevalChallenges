@@ -1,0 +1,10 @@
+{
+  "name": "MultiplesOfANumber",
+  "version": "0.0.0",
+  "description": "MultiplesOfANumber",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}
