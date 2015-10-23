@@ -99,6 +99,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SimpleSorting", "SimpleSort
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "BigDigits", "BigDigits\BigDigits.njsproj", "{E7B94CDA-3FA8-4ED1-AB10-E48CB4BCDF0C}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JugglingWithZeros", "JugglingWithZeros\JugglingWithZeros.njsproj", "{C859DCE7-D54C-4FB6-9C4F-1E2F407C8002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -289,6 +291,10 @@ Global
 		{E7B94CDA-3FA8-4ED1-AB10-E48CB4BCDF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7B94CDA-3FA8-4ED1-AB10-E48CB4BCDF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7B94CDA-3FA8-4ED1-AB10-E48CB4BCDF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C859DCE7-D54C-4FB6-9C4F-1E2F407C8002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C859DCE7-D54C-4FB6-9C4F-1E2F407C8002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C859DCE7-D54C-4FB6-9C4F-1E2F407C8002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C859DCE7-D54C-4FB6-9C4F-1E2F407C8002}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -341,5 +347,6 @@ Global
 		{47C100E4-9DE5-4E28-92C4-DAD6951427A5} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{114DF648-2EE4-4006-A45C-AB9695FA4E00} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{E7B94CDA-3FA8-4ED1-AB10-E48CB4BCDF0C} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{C859DCE7-D54C-4FB6-9C4F-1E2F407C8002} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
