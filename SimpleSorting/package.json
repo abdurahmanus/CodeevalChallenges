@@ -1,0 +1,10 @@
+{
+  "name": "SimpleSorting",
+  "version": "0.0.0",
+  "description": "SimpleSorting",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}
