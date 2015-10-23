@@ -1,0 +1,150 @@
+﻿SetRow 249 30
+SetCol 219 6
+SetCol 27 5
+SetCol 13 12
+QueryCol 100
+QueryCol 117
+SetCol 231 22
+QueryRow 44
+QueryCol 24
+SetCol 74 14
+SetCol 51 4
+SetCol 153 19
+QueryRow 73
+QueryCol 205
+QueryRow 98
+QueryCol 253
+SetCol 57 20
+SetCol 188 11
+QueryRow 201
+SetRow 181 28
+QueryCol 178
+SetCol 216 12
+QueryCol 107
+QueryCol 12
+SetRow 88 21
+QueryCol 177
+SetRow 93 2
+QueryCol 59
+QueryRow 153
+QueryCol 190
+QueryCol 85
+SetCol 253 18
+QueryRow 179
+SetCol 222 18
+SetRow 173 30
+SetRow 140 8
+SetRow 12 22
+SetCol 202 31
+QueryRow 56
+SetRow 242 1
+SetCol 202 21
+QueryRow 3
+QueryRow 70
+SetCol 121 23
+SetRow 124 6
+SetRow 88 24
+SetCol 38 0
+SetCol 211 11
+SetCol 17 9
+SetCol 186 22
+SetCol 234 22
+SetCol 185 7
+QueryCol 252
+QueryCol 165
+SetRow 179 18
+QueryRow 129
+QueryRow 210
+SetCol 26 7
+QueryCol 108
+SetRow 158 16
+SetCol 68 24
+SetRow 118 13
+QueryRow 127
+QueryRow 157
+SetCol 179 25
+SetRow 134 21
+SetCol 194 28
+SetCol 190 22
+SetCol 24 6
+QueryCol 170
+QueryCol 97
+SetRow 247 11
+SetCol 0 31
+SetCol 117 19
+SetCol 28 25
+QueryCol 222
+QueryCol 216
+QueryCol 194
+SetRow 158 20
+SetCol 149 0
+QueryCol 244
+QueryRow 202
+SetCol 142 13
+SetCol 47 21
+QueryCol 44
+QueryCol 72
+SetCol 42 31
+SetCol 37 18
+QueryCol 82
+QueryCol 118
+SetCol 197 24
+SetCol 247 19
+QueryCol 228
+SetRow 229 13
+SetRow 156 31
+QueryRow 221
+QueryCol 144
+QueryRow 108
+SetCol 68 17
+SetRow 127 8
+SetRow 175 16
+QueryRow 248
+SetCol 69 9
+QueryRow 67
+QueryRow 117
+QueryCol 54
+QueryRow 233
+SetRow 226 21
+QueryRow 85
+QueryRow 135
+SetCol 44 10
+SetRow 248 5
+QueryCol 92
+QueryCol 67
+QueryRow 117
+QueryCol 54
+SetCol 161 0
+SetRow 226 9
+QueryCol 85
+SetCol 251 17
+QueryRow 175
+SetCol 152 10
+SetRow 92 1
+SetRow 67 5
+QueryRow 117
+SetRow 54 3
+SetCol 161 7
+QueryCol 226
+QueryRow 85
+QueryCol 135
+SetRow 175 27
+QueryCol 248
+QueryCol 92
+QueryRow 67
+SetCol 107 9
+QueryRow 54
+SetRow 233 8
+SetCol 100 15
+QueryCol 85
+SetCol 251 25
+SetRow 175 21
+QueryRow 226
+QueryRow 85
+QueryCol 135
+SetCol 152 17
+QueryRow 92
+SetRow 67 1
+QueryCol 117
+QueryRow 54
+SetRow 233 16
