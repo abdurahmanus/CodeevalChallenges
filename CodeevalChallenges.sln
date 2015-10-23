@@ -93,6 +93,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WithoutRepetitions", "Witho
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "OneZeroTwoZeros", "OneZeroTwoZeros\OneZeroTwoZeros.njsproj", "{92AF656B-B834-4667-B2F4-9CE4C62ACFFC}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CompressedSequence", "CompressedSequence\CompressedSequence.njsproj", "{47C100E4-9DE5-4E28-92C4-DAD6951427A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -271,6 +273,10 @@ Global
 		{92AF656B-B834-4667-B2F4-9CE4C62ACFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92AF656B-B834-4667-B2F4-9CE4C62ACFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92AF656B-B834-4667-B2F4-9CE4C62ACFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C100E4-9DE5-4E28-92C4-DAD6951427A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C100E4-9DE5-4E28-92C4-DAD6951427A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C100E4-9DE5-4E28-92C4-DAD6951427A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C100E4-9DE5-4E28-92C4-DAD6951427A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -320,5 +326,6 @@ Global
 		{2FF5B26D-4B88-4F98-95FB-5C061DC0EC68} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{17FCD175-8585-4FD9-84B0-F1B933F1A0E7} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{92AF656B-B834-4667-B2F4-9CE4C62ACFFC} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{47C100E4-9DE5-4E28-92C4-DAD6951427A5} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
