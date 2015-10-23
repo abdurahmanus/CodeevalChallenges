@@ -1,0 +1,10 @@
+{
+  "name": "NModM",
+  "version": "0.0.0",
+  "description": "NModM",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}
