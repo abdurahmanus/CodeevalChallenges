@@ -111,6 +111,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "PrimePalindrome", "PrimePal
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "BitPositions", "BitPositions\BitPositions.njsproj", "{FD14A88F-D8EF-4113-82C9-5C083EBF7322}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MultiplicationTables", "MultiplicationTables\MultiplicationTables.njsproj", "{0418764E-BC62-4632-9763-D71747E985D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -325,6 +327,10 @@ Global
 		{FD14A88F-D8EF-4113-82C9-5C083EBF7322}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD14A88F-D8EF-4113-82C9-5C083EBF7322}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD14A88F-D8EF-4113-82C9-5C083EBF7322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0418764E-BC62-4632-9763-D71747E985D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0418764E-BC62-4632-9763-D71747E985D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0418764E-BC62-4632-9763-D71747E985D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0418764E-BC62-4632-9763-D71747E985D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -383,5 +389,6 @@ Global
 		{7F1D2D1B-595B-45DB-9421-9B1318E7BFAE} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{DDE5ED28-A349-441F-8524-7ACD15A9EA88} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{FD14A88F-D8EF-4113-82C9-5C083EBF7322} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{0418764E-BC62-4632-9763-D71747E985D5} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
