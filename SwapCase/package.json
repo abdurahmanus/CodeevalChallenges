@@ -1,0 +1,10 @@
+{
+  "name": "SwapCase",
+  "version": "0.0.0",
+  "description": "SwapCase",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

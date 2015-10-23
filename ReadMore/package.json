@@ -1,0 +1,10 @@
+{
+  "name": "ReadMore",
+  "version": "0.0.0",
+  "description": "ReadMore",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Lowercase",
+  "version": "0.0.0",
+  "description": "Lowercase",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

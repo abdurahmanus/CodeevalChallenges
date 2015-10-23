@@ -1,0 +1,10 @@
+{
+  "name": "ReverseWords",
+  "version": "0.0.0",
+  "description": "ReverseWords",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "RollerCoaster",
+  "version": "0.0.0",
+  "description": "RollerCoaster",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

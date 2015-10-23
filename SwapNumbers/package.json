@@ -1,0 +1,10 @@
+{
+  "name": "SwapNumbers",
+  "version": "0.0.0",
+  "description": "SwapNumbers",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

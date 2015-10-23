@@ -1,0 +1,10 @@
+{
+  "name": "StringMask",
+  "version": "0.0.0",
+  "description": "StringMask",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

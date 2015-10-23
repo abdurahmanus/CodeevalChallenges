@@ -1,0 +1,10 @@
+{
+  "name": "HappyNumbers",
+  "version": "0.0.0",
+  "description": "HappyNumbers",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

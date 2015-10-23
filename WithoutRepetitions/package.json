@@ -1,0 +1,10 @@
+{
+  "name": "WithoutRepetitions",
+  "version": "0.0.0",
+  "description": "WithoutRepetitions",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

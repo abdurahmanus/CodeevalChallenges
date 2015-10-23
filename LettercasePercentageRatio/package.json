@@ -1,0 +1,10 @@
+{
+  "name": "LettercasePercentageRatio",
+  "version": "0.0.0",
+  "description": "LettercasePercentageRatio",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

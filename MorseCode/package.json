@@ -1,0 +1,10 @@
+{
+  "name": "MorseCode",
+  "version": "0.0.0",
+  "description": "MorseCode",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

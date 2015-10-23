@@ -1,0 +1,10 @@
+{
+  "name": "BeautifulStrings",
+  "version": "0.0.0",
+  "description": "BeautifulStrings",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

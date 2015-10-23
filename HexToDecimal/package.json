@@ -1,0 +1,10 @@
+{
+  "name": "HexToDecimal",
+  "version": "0.0.0",
+  "description": "HexToDecimal",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

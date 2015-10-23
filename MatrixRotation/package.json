@@ -1,0 +1,10 @@
+{
+  "name": "MatrixRotation",
+  "version": "0.0.0",
+  "description": "MatrixRotation",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

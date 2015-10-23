@@ -1,0 +1,10 @@
+{
+  "name": "DeltaTime",
+  "version": "0.0.0",
+  "description": "DeltaTime",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

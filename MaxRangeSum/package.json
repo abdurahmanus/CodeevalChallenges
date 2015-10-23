@@ -1,0 +1,10 @@
+{
+  "name": "MaxRangeSum",
+  "version": "0.0.0",
+  "description": "MaxRangeSum",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

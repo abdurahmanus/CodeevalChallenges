@@ -1,0 +1,10 @@
+{
+  "name": "CleanUpTheWords",
+  "version": "0.0.0",
+  "description": "CleanUpTheWords",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

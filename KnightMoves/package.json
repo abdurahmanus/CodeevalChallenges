@@ -1,0 +1,10 @@
+{
+  "name": "KnightMoves",
+  "version": "0.0.0",
+  "description": "KnightMoves",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

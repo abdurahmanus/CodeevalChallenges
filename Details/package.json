@@ -1,0 +1,10 @@
+{
+  "name": "Details",
+  "version": "0.0.0",
+  "description": "Details",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}
