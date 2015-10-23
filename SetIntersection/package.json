@@ -1,0 +1,10 @@
+{
+  "name": "SetIntersection",
+  "version": "0.0.0",
+  "description": "SetIntersection",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}
