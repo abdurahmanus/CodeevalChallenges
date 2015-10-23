@@ -1,0 +1,10 @@
+{
+  "name": "EvenNumbers",
+  "version": "0.0.0",
+  "description": "EvenNumbers",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}
