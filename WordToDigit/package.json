@@ -1,0 +1,10 @@
+{
+  "name": "WordToDigit",
+  "version": "0.0.0",
+  "description": "WordToDigit",
+  "main": "app.js",
+  "author": {
+    "name": "abdur",
+    "email": ""
+  }
+}
