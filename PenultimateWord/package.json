@@ -1,0 +1,10 @@
+{
+  "name": "PenultimateWord",
+  "version": "0.0.0",
+  "description": "PenultimateWord",
+  "main": "app.js",
+  "author": {
+    "name": "abdur",
+    "email": ""
+  }
+}

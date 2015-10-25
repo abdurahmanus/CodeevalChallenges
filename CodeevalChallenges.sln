@@ -123,6 +123,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "QueryBoard", "QueryBoard\Qu
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CalculateDistance", "CalculateDistance\CalculateDistance.njsproj", "{62050266-4A3A-405D-85EA-408F6E2BD172}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "PenultimateWord", "PenultimateWord\PenultimateWord.njsproj", "{3CE46D5C-E2A4-49FF-B1DD-2B4938A91484}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -361,6 +363,10 @@ Global
 		{62050266-4A3A-405D-85EA-408F6E2BD172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62050266-4A3A-405D-85EA-408F6E2BD172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62050266-4A3A-405D-85EA-408F6E2BD172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE46D5C-E2A4-49FF-B1DD-2B4938A91484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE46D5C-E2A4-49FF-B1DD-2B4938A91484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE46D5C-E2A4-49FF-B1DD-2B4938A91484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE46D5C-E2A4-49FF-B1DD-2B4938A91484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -425,5 +431,6 @@ Global
 		{6E1D00B7-6FED-4689-91D4-877344B25D71} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{FF64B31F-EE87-459C-9AD1-D8BCDD4429A3} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{62050266-4A3A-405D-85EA-408F6E2BD172} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{3CE46D5C-E2A4-49FF-B1DD-2B4938A91484} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
