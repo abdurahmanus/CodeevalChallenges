@@ -1,0 +1,10 @@
+{
+  "name": "MultiplyLists",
+  "version": "0.0.0",
+  "description": "MultiplyLists",
+  "main": "app.js",
+  "author": {
+    "name": "abdur",
+    "email": ""
+  }
+}
