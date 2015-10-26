@@ -129,6 +129,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WordToDigit", "WordToDigit\
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MultiplyLists", "MultiplyLists\MultiplyLists.njsproj", "{22F4E873-A301-42B6-A008-CBED4662E18F}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "RomanNumerals", "RomanNumerals\RomanNumerals.njsproj", "{6A457F44-1965-4966-8FF5-812302E4F8C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -379,6 +381,10 @@ Global
 		{22F4E873-A301-42B6-A008-CBED4662E18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F4E873-A301-42B6-A008-CBED4662E18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F4E873-A301-42B6-A008-CBED4662E18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A457F44-1965-4966-8FF5-812302E4F8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A457F44-1965-4966-8FF5-812302E4F8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A457F44-1965-4966-8FF5-812302E4F8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A457F44-1965-4966-8FF5-812302E4F8C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -446,5 +452,6 @@ Global
 		{3CE46D5C-E2A4-49FF-B1DD-2B4938A91484} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{97D64006-834F-4793-BC5D-E37708063DA3} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{22F4E873-A301-42B6-A008-CBED4662E18F} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{6A457F44-1965-4966-8FF5-812302E4F8C0} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
