@@ -1,0 +1,10 @@
+{
+  "name": "ShortestRepetition",
+  "version": "0.0.0",
+  "description": "ShortestRepetition",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

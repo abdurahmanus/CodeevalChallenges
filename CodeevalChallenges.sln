@@ -131,6 +131,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MultiplyLists", "MultiplyLi
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "RomanNumerals", "RomanNumerals\RomanNumerals.njsproj", "{6A457F44-1965-4966-8FF5-812302E4F8C0}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ShortestRepetition", "ShortestRepetition\ShortestRepetition.njsproj", "{AE131A76-BE63-4661-AFF0-1DCEBD68B38C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -385,6 +387,10 @@ Global
 		{6A457F44-1965-4966-8FF5-812302E4F8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A457F44-1965-4966-8FF5-812302E4F8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A457F44-1965-4966-8FF5-812302E4F8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE131A76-BE63-4661-AFF0-1DCEBD68B38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE131A76-BE63-4661-AFF0-1DCEBD68B38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE131A76-BE63-4661-AFF0-1DCEBD68B38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE131A76-BE63-4661-AFF0-1DCEBD68B38C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -453,5 +459,6 @@ Global
 		{97D64006-834F-4793-BC5D-E37708063DA3} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{22F4E873-A301-42B6-A008-CBED4662E18F} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{6A457F44-1965-4966-8FF5-812302E4F8C0} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{AE131A76-BE63-4661-AFF0-1DCEBD68B38C} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
