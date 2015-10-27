@@ -141,6 +141,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "StringsAndArrows", "Strings
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FibonacciSeries", "FibonacciSeries\FibonacciSeries.njsproj", "{0CAF67BE-CC80-4097-B5D5-63D0BD72BE16}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "RacingChars", "RacingChars\RacingChars.njsproj", "{BB3F7E6D-E99F-4287-A2F2-9C6129933E37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -415,6 +417,10 @@ Global
 		{0CAF67BE-CC80-4097-B5D5-63D0BD72BE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CAF67BE-CC80-4097-B5D5-63D0BD72BE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CAF67BE-CC80-4097-B5D5-63D0BD72BE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3F7E6D-E99F-4287-A2F2-9C6129933E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3F7E6D-E99F-4287-A2F2-9C6129933E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3F7E6D-E99F-4287-A2F2-9C6129933E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3F7E6D-E99F-4287-A2F2-9C6129933E37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -488,5 +494,6 @@ Global
 		{35E5F286-82C8-4AA7-9A86-DEEEC8A8017A} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{151B4273-2574-473E-A56E-460CC9A52076} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{0CAF67BE-CC80-4097-B5D5-63D0BD72BE16} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{BB3F7E6D-E99F-4287-A2F2-9C6129933E37} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
