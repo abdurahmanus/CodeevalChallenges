@@ -135,6 +135,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ShortestRepetition", "Short
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WorkingExperience", "WorkingExperience\WorkingExperience.njsproj", "{57C83259-9BC3-48DF-849B-3A19D6C4CED5}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "RoadTrip", "RoadTrip\RoadTrip.njsproj", "{35E5F286-82C8-4AA7-9A86-DEEEC8A8017A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -397,6 +399,10 @@ Global
 		{57C83259-9BC3-48DF-849B-3A19D6C4CED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57C83259-9BC3-48DF-849B-3A19D6C4CED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57C83259-9BC3-48DF-849B-3A19D6C4CED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E5F286-82C8-4AA7-9A86-DEEEC8A8017A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E5F286-82C8-4AA7-9A86-DEEEC8A8017A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E5F286-82C8-4AA7-9A86-DEEEC8A8017A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E5F286-82C8-4AA7-9A86-DEEEC8A8017A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -467,5 +473,6 @@ Global
 		{6A457F44-1965-4966-8FF5-812302E4F8C0} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{AE131A76-BE63-4661-AFF0-1DCEBD68B38C} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{57C83259-9BC3-48DF-849B-3A19D6C4CED5} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{35E5F286-82C8-4AA7-9A86-DEEEC8A8017A} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
