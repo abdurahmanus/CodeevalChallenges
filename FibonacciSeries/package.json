@@ -1,0 +1,10 @@
+{
+  "name": "FibonacciSeries",
+  "version": "0.0.0",
+  "description": "FibonacciSeries",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}
