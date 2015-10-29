@@ -1,0 +1,10 @@
+{
+  "name": "MinimumDistance",
+  "version": "0.0.0",
+  "description": "MinimumDistance",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

@@ -143,6 +143,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FibonacciSeries", "Fibonacc
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "RacingChars", "RacingChars\RacingChars.njsproj", "{BB3F7E6D-E99F-4287-A2F2-9C6129933E37}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MinimumDistance", "MinimumDistance\MinimumDistance.njsproj", "{EF54CE8C-1762-484D-9812-44835D3C25A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -421,6 +423,10 @@ Global
 		{BB3F7E6D-E99F-4287-A2F2-9C6129933E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3F7E6D-E99F-4287-A2F2-9C6129933E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3F7E6D-E99F-4287-A2F2-9C6129933E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF54CE8C-1762-484D-9812-44835D3C25A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF54CE8C-1762-484D-9812-44835D3C25A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF54CE8C-1762-484D-9812-44835D3C25A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF54CE8C-1762-484D-9812-44835D3C25A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -495,5 +501,6 @@ Global
 		{151B4273-2574-473E-A56E-460CC9A52076} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{0CAF67BE-CC80-4097-B5D5-63D0BD72BE16} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{BB3F7E6D-E99F-4287-A2F2-9C6129933E37} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{EF54CE8C-1762-484D-9812-44835D3C25A9} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
