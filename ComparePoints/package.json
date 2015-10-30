@@ -1,0 +1,10 @@
+{
+  "name": "ComparePoints",
+  "version": "0.0.0",
+  "description": "ComparePoints",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

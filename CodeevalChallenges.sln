@@ -147,6 +147,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MinimumDistance", "MinimumD
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "DataRecovery", "DataRecovery\DataRecovery.njsproj", "{30765F43-521B-4387-A2E5-02D29CD599B7}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ComparePoints", "ComparePoints\ComparePoints.njsproj", "{84E2720A-F67D-4D2F-8F8D-BCD8C7D7C7B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -433,6 +435,10 @@ Global
 		{30765F43-521B-4387-A2E5-02D29CD599B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30765F43-521B-4387-A2E5-02D29CD599B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30765F43-521B-4387-A2E5-02D29CD599B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E2720A-F67D-4D2F-8F8D-BCD8C7D7C7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E2720A-F67D-4D2F-8F8D-BCD8C7D7C7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E2720A-F67D-4D2F-8F8D-BCD8C7D7C7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E2720A-F67D-4D2F-8F8D-BCD8C7D7C7B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -509,5 +515,6 @@ Global
 		{BB3F7E6D-E99F-4287-A2F2-9C6129933E37} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{EF54CE8C-1762-484D-9812-44835D3C25A9} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{30765F43-521B-4387-A2E5-02D29CD599B7} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{84E2720A-F67D-4D2F-8F8D-BCD8C7D7C7B5} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
