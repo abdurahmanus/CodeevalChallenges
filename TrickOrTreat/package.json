@@ -1,0 +1,10 @@
+{
+  "name": "TrickOrTreat",
+  "version": "0.0.0",
+  "description": "TrickOrTreat",
+  "main": "app.js",
+  "author": {
+    "name": "abdur",
+    "email": ""
+  }
+}
