@@ -1,0 +1,10 @@
+{
+  "name": "Locks",
+  "version": "0.0.0",
+  "description": "Locks",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}
