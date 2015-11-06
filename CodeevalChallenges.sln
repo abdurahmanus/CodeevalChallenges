@@ -163,6 +163,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Locks", "Locks\Locks.njspro
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NumberOfOnes", "NumberOfOnes\NumberOfOnes.njsproj", "{AB716A9C-1D42-4101-A23E-36E769CA291C}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "OverlappingRectangles", "OverlappingRectangles\OverlappingRectangles.njsproj", "{53ADFF3E-FCC9-4DE7-9213-CD2202EFF952}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -481,6 +483,10 @@ Global
 		{AB716A9C-1D42-4101-A23E-36E769CA291C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB716A9C-1D42-4101-A23E-36E769CA291C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB716A9C-1D42-4101-A23E-36E769CA291C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53ADFF3E-FCC9-4DE7-9213-CD2202EFF952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ADFF3E-FCC9-4DE7-9213-CD2202EFF952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ADFF3E-FCC9-4DE7-9213-CD2202EFF952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ADFF3E-FCC9-4DE7-9213-CD2202EFF952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -565,5 +571,6 @@ Global
 		{E4F574BC-F2A1-441B-B05E-0339E6A2B4D5} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{8130ABA8-28F8-4AC4-A615-4CFD5BD2C0AA} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{AB716A9C-1D42-4101-A23E-36E769CA291C} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{53ADFF3E-FCC9-4DE7-9213-CD2202EFF952} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
