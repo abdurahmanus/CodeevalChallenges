@@ -1,0 +1,10 @@
+{
+  "name": "APileOfBricks",
+  "version": "0.0.0",
+  "description": "APileOfBricks",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}
