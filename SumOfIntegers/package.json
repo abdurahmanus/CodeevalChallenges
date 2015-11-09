@@ -1,0 +1,10 @@
+{
+  "name": "SumOfIntegers",
+  "version": "0.0.0",
+  "description": "SumOfIntegers",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}
