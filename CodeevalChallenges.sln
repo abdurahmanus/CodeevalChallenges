@@ -171,6 +171,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "APileOfBricks", "APileOfBri
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SumOfIntegers", "SumOfIntegers\SumOfIntegers.njsproj", "{7B8320CC-5687-4376-A47B-34C60FB00F2C}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "LowestCommonAncestor", "LowestCommonAncestor\LowestCommonAncestor.njsproj", "{B5665877-266E-4621-9B5E-93F41AE1E777}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -505,6 +507,10 @@ Global
 		{7B8320CC-5687-4376-A47B-34C60FB00F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B8320CC-5687-4376-A47B-34C60FB00F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B8320CC-5687-4376-A47B-34C60FB00F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5665877-266E-4621-9B5E-93F41AE1E777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5665877-266E-4621-9B5E-93F41AE1E777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5665877-266E-4621-9B5E-93F41AE1E777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5665877-266E-4621-9B5E-93F41AE1E777}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -593,5 +599,6 @@ Global
 		{727A8239-7A55-411D-B4D6-EBCFE6D251FA} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{0756E0E5-3AEF-4463-9CD9-A33AE0AF5DC2} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{7B8320CC-5687-4376-A47B-34C60FB00F2C} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{B5665877-266E-4621-9B5E-93F41AE1E777} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
