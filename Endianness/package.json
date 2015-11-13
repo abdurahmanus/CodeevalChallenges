@@ -1,0 +1,10 @@
+{
+  "name": "Endianness",
+  "version": "0.0.0",
+  "description": "Endianness",
+  "main": "app.js",
+  "author": {
+    "name": "Dmitry Gladkikh",
+    "email": ""
+  }
+}

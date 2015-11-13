@@ -173,6 +173,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SumOfIntegers", "SumOfInteg
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "LowestCommonAncestor", "LowestCommonAncestor\LowestCommonAncestor.njsproj", "{B5665877-266E-4621-9B5E-93F41AE1E777}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Endianness", "Endianness\Endianness.njsproj", "{15F7B5B7-FC0C-4195-9CC6-E720825AE7EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -511,6 +513,10 @@ Global
 		{B5665877-266E-4621-9B5E-93F41AE1E777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5665877-266E-4621-9B5E-93F41AE1E777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5665877-266E-4621-9B5E-93F41AE1E777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F7B5B7-FC0C-4195-9CC6-E720825AE7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F7B5B7-FC0C-4195-9CC6-E720825AE7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F7B5B7-FC0C-4195-9CC6-E720825AE7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F7B5B7-FC0C-4195-9CC6-E720825AE7EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -600,5 +606,6 @@ Global
 		{0756E0E5-3AEF-4463-9CD9-A33AE0AF5DC2} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{7B8320CC-5687-4376-A47B-34C60FB00F2C} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{B5665877-266E-4621-9B5E-93F41AE1E777} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{15F7B5B7-FC0C-4195-9CC6-E720825AE7EC} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal
