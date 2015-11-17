@@ -1,0 +1,10 @@
+{
+  "name": "StackImplementation",
+  "version": "0.0.0",
+  "description": "StackImplementation",
+  "main": "app.js",
+  "author": {
+    "name": "abdur",
+    "email": ""
+  }
+}
