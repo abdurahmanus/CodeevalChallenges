@@ -1,0 +1,10 @@
+{
+  "name": "DecimalToBinary",
+  "version": "0.0.0",
+  "description": "DecimalToBinary",
+  "main": "app.js",
+  "author": {
+    "name": "abdur",
+    "email": ""
+  }
+}
