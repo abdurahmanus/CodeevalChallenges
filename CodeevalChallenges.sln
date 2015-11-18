@@ -181,6 +181,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "StackImplementation", "Stac
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "DecimalToBinary", "DecimalToBinary\DecimalToBinary.njsproj", "{51A87E61-FAC4-4B4B-B33A-01DB6AE91EFD}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TrailingString", "TrailingString\TrailingString.njsproj", "{855750A1-8C92-4BFB-A52E-2E5F831858BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -535,6 +537,10 @@ Global
 		{51A87E61-FAC4-4B4B-B33A-01DB6AE91EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51A87E61-FAC4-4B4B-B33A-01DB6AE91EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51A87E61-FAC4-4B4B-B33A-01DB6AE91EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855750A1-8C92-4BFB-A52E-2E5F831858BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855750A1-8C92-4BFB-A52E-2E5F831858BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855750A1-8C92-4BFB-A52E-2E5F831858BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855750A1-8C92-4BFB-A52E-2E5F831858BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -628,5 +634,6 @@ Global
 		{3C92A6F6-5960-40A6-B032-CED1921149C0} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{B3A9065A-DC5C-4B76-9F4C-F5C878E4EE2C} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 		{51A87E61-FAC4-4B4B-B33A-01DB6AE91EFD} = {24106904-0217-48B2-83CA-1402EB26D6BE}
+		{855750A1-8C92-4BFB-A52E-2E5F831858BE} = {24106904-0217-48B2-83CA-1402EB26D6BE}
 	EndGlobalSection
 EndGlobal

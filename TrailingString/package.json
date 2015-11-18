@@ -1,0 +1,10 @@
+{
+  "name": "TrailingString",
+  "version": "0.0.0",
+  "description": "TrailingString",
+  "main": "app.js",
+  "author": {
+    "name": "abdur",
+    "email": ""
+  }
+}
